@@ -33,5 +33,5 @@ endif
 
 Note that this will apply the colorscheme to C/C++ as well 
 
-
+![screenshot](cpython-vim.png)
 
